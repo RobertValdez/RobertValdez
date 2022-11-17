@@ -2,6 +2,9 @@
 ![image](https://user-images.githubusercontent.com/45675837/202537445-4a2d613c-f852-462b-bfb9-3d0521ed20ed.png)
 ![image](https://user-images.githubusercontent.com/45675837/202537354-9fc769a7-8f03-49d4-813d-46fedf5e8c8f.png)
 
+![image](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![image](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+
 ![image](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 
 ![image](https://user-images.githubusercontent.com/45675837/202537083-bf00300e-33de-4c00-b6da-e1cc5e049912.png)
